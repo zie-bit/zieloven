@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Aku, Kamu, dan Bogor</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: 'Georgia', serif;
+    background: #0f0f0f;
+    color: #eaeaea;
+    line-height: 1.8;
+    overflow-x: hidden;
+    animation: fadeIn 2s ease;
+}
+
+header {
+    height: 100vh;
+    background: #0f0f0f; /* DIUBAH: tanpa gambar */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+}
+
+header h1 {
+    font-size: 42px;
+}
+
+header p {
+    opacity: 0.8;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 40px 20px;
+}
+
+.section {
+    margin-bottom: 60px;
+    opacity: 0;
+    transform: translateY(30px);
+    transition: all 1s ease;
+}
+
+.section.show {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+footer {
+    text-align: center;
+    padding: 30px;
+    font-size: 14px;
+    color: #888;
+}
+
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Aku, Kamu, dan Bogor</h1>
+<p>dimulai dari hal yang sederhana, tapi mungkin tidak berakhir disana.</p>
+</header>
+
+<div class="container">
+
+
+<div class="section">
+<p>
+Semua ini berawal dari hal yang sederhana. TikTok.
+Dari sebuah komentar kecil, dari kamu yang tiba-tiba muncul di notifikasi aku.
+“moots ga cantik?????”
+Dan anehnya, dari situ semuanya mulai.
+</p>
+
+
+<p>
+Kita mulai dari hal kecil, saling follow, saling DM, pindah ke Instagram,
+dan akhirnya ke WhatsApp. Dari yang awalnya cuma iseng,
+jadi kebiasaan. Dari kebiasaan, jadi rasa nyaman.
+Sampai akhirnya, tanpa sadar, kita seperti dua orang yang sedang pacaran,
+meskipun belum pernah bertemu.
+</p>
+
+
+<p>
+Satu tahun kita jalanin itu semua.
+Tanpa tatap muka, tanpa genggam tangan,
+tapi penuh cerita, penuh rasa, dan penuh harapan.
+Dan akhirnya, aku berani.
+Kita berani.
+</p>
+</div>
+
+
+<div class="section">
+<p>
+7 Februari 2025, di Manggarai.
+Aku dari Pondok Ranji, kamu dari Bogor.
+Hari itu, semuanya terasa nyata.
+Kamu datang, membawa bunga dan coklat,
+dengan tulisan yang masih aku ingat sampai sekarang:
+“will you be my girlfriend and valentine?”
+Dan di situ, aku bilang iya.
+</p>
+
+
+<p>
+Sejak saat itu, Bogor jadi punya arti.
+Kota yang sebelumnya biasa saja,
+jadi penuh kenangan.
+Aku naik kereta dari Pondok Ranji,
+dan kamu menunggu aku di sana,
+dengan vesmet putih kamu.
+</p>
+
+
+<p>
+Hujan jadi saksi first date kita.
+Matcha dan vanilla latte di Nako,
+nasi padang yang kita makan,
+dan bioskop di Botani Square.
+Hal-hal kecil yang sekarang terasa besar.
+</p>
+</div>
+
+
+<div class="section">
+<p>
+Kita jalan, kita ketawa, kita pakai outfit yang matching,
+kita saling kasih hadiah,
+dan kita juga... sering berantem.
+Baik di luar, atau di kos kamu.
+</p>
+
+
+<p>
+Aku belajar banyak dari kamu.
+Tentang hubungan, 
+Tentang rasa, dan
+Tentang bagaimana mencintai seseorang dengan cara yang aku belum pernah lakukan sebelumnya.
+Aku bersyukur untuk itu.
+</p>
+</div>
+
+
+<div class="section">
+<p>
+Sampai akhirnya, hari itu datang.
+Saat kamu ke Bintaro.
+Harusnya itu jadi momen yang indah.
+First date kita di tempat aku.
+</p>
+
+
+<p>
+Kita makan tenka,
+beli ice cream, 
+masuk Uniqlo…dan
+Aku berpikir beli JCO untuk kamu dan mama.
+Aku benar-benar bahagia saat itu.
+</p>
+
+
+<div class="section">
+<p>
+Sampai semuanya berubah.
+Dari hal kecil.
+Dari live, dan dari video TikTok.
+Dari sesuatu yang seharusnya tidak jadi masalah,
+tapi malah jadi luka.
+</p>
+
+<p>
+Semuanya terasa berbeda.
+Ada rasa yang campur aduk.
+Senang, tapi juga tidak tenang.
+</p>
+</div>
+
+
+<p>
+Dan dari situ,
+kita seperti dua orang asing.
+</p>
+</div>
+
+
+<div class="section">
+<p>
+Aku jalan cepat ke Indomaret,
+beli air putih buat kamu.
+Hal kecil,
+tapi itu cara aku tetap peduli.
+</p>
+
+
+<p>
+Tapi kamu... berbeda.
+Dingin.
+Jauh.
+</p>
+
+
+<p>
+Aku duduk, diam..tanpa kata.
+Dan yang paling sakit,
+saat kamu lewat di depan aku,
+tanpa berhenti.
+</p>
+</div>
+
+
+<div class="section">
+<p>
+Kereta datang.</p>
+<p>Kita masuk.</p>
+<p>Kamu duduk,
+aku berdiri.
+</p>
+
+<p>
+Aku kasih kamu air itu.</p>
+<p>Kamu nolak.</p>
+<p>Aku paksa, tapi kamu tetap nolak.</p>
+
+<p>
+Sesederhana itu,</p>
+<p>tapi rasanya... hancur.
+</p>
+
+<p>
+Di kereta, kita seperti orang asing.</p>
+<p>Padahal dulu, kita rumah satu sama lain.</p>
+<p>Aku turun tanpa melihat kamu.</p>
+<p>Tapi hati aku, tertinggal di situ.</p>
+<p>
+Tangis di jalan pulang… jadi akhir yang selama ini aku hindari dan sekarang terjadi.
+</p>
+</div>
+
+
+<div class="section">
+<p>
+Aku pulang,</p>
+<p>Diam,</p>
+<p>dan merasa kosong.
+</p>
+
+
+<p>
+Dan dari situ,</p>
+<p>aku tahu.</p>
+
+<p>
+Mungkin ini sudah waktunya selesai.
+</p>
+</div>
+
+
+<div class="section">
+<p>
+Terima kasih, untuk semua “pertama” yang aku rasain sama kamu.</p>
+<p>Untuk semua usaha, perubahan, dan rasa yang pernah tumbuh.</p>
+
+<p>Dan nanti…</p>
+
+<p>
+Setiap aku dengar “Bogor”, kamu orang yang akan selalu terlintas di pikiran aku.
+Ini website pertama, dan yang terakhir aku buat untuk kamu.
+</p>
+</div>
+
+</div>
+
+<footer>
+<p>Kita pernah, dan itu cukup.
+			 -Zie.</p>
+<p style="margin-top:10px; font-size:12px; opacity:0.6;">
+</footer>
+
+<script>
+const sections = document.querySelectorAll('.section');
+window.addEventListener('scroll', () => {
+    sections.forEach(sec => {
+        const top = sec.getBoundingClientRect().top;
+        if (top < window.innerHeight - 100) {
+            sec.classList.add('show');
+        }
+    });
+});
+</script>
+
+</body>
+</html>
